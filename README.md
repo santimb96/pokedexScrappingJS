@@ -1,9 +1,3 @@
-<style>
-body{
-font-family: monospace, Arial, serif;
-}
-</style>
-<body>
 <h1>POKÉDEX MINIMALISTA</h1>
 Autor: Santi Martínez<br>
 Fecha: 18/07/2021<br>
@@ -15,4 +9,3 @@ en una tabla de manera minimalista sin de momento más funciones</p>
 
 <h2>RESULTADO</h2>
 ![img.png](img/img.png)
-</body>
